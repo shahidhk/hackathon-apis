@@ -151,6 +151,7 @@ Here are some examples of how you can use Hasura:
 
 Here are a few short videos to help you get started:
 
+1. Deploy on Heroku and make your first GraphQL query [(video ~ 2 mins)](https://www.youtube.com/watch?v=jUObpSl6dTE)
 1. Explore GraphQL queries, mutations and subscriptions with a realtime todo app [(video coming soon)]()
 2. Send an email when a new user is created using netlify functions [(video coming soon)]()
 3. Integrate authentication/authorization with auth0 [(video coming soon)]()
